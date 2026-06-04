@@ -5,7 +5,7 @@ A comprehensive, full-stack trading dashboard inspired by Zerodha. This project 
 ---
 
 ## 🌐 Live Demo
-Experience the platform live:(https://zerodha-clone-frontend-beta.vercel.app/)
+Experience the platform live:(stockify-amber.vercel.app)
 
 
 
